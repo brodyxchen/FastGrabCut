@@ -196,7 +196,7 @@ void FastGrabCut::SPCut()
 		Rect rect;
 		panel->getRect(rect);
 
-		///////////////
+		///////////////hhhhhh
 		//rect = Rect(149,95,182,142);
 
 		IsFirstSPCut = false;
